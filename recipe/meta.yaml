@@ -23,6 +23,7 @@ requirements:
     - brs_utils
     - filetype
     - colored
+    - freetype
 
 test:
   source_files:
