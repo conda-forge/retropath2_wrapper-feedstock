@@ -20,7 +20,7 @@ requirements:
     - pip
   run:
     - python >=3.6
-    - brs_utils
+    - brs_utils >=1.18
     - filetype
     - colored
     - freetype
