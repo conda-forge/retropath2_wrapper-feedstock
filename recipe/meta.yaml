@@ -20,7 +20,7 @@ requirements:
     - pip
   run:
     - python >=3.6
-    - brs_utils >=1.18
+    - brs_utils >=1.19
     - filetype
     - colored
     - freetype
@@ -34,8 +34,7 @@ test:
     - pytest
   commands:
     - python -m {{ name|lower }} --help
-    - cd tests
-    - pytest -v
+    - python -m pytest tests
 
 about:
   home: https://github.com/brsynth/{{ name|lower }}
@@ -47,3 +46,4 @@ extra:
   recipe-maintainers:
     - breakthewall
     - kenza12
+    - guillaume-gricourt
