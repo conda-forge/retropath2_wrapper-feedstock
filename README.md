@@ -144,5 +144,6 @@ Feedstock Maintainers
 =====================
 
 * [@breakthewall](https://github.com/breakthewall/)
+* [@guillaume-gricourt](https://github.com/guillaume-gricourt/)
 * [@kenza12](https://github.com/kenza12/)
 
