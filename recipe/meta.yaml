@@ -1,5 +1,5 @@
 {% set name = "retropath2_wrapper" %}
-{% set version = "2.5.2" %}
+{% set version = "2.6.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/brsynth/retropath2-wrapper/archive/{{ version }}.tar.gz
-  sha256: 87f395e1e5b2d3c173c13128cd10635c41a988807366f37adbb6dd500c30f232
+  sha256: 29744d3b57a73a58f9e74195bf5011c4ee4b1a7b82da011c7c9975f14a6e90b5
 
 build:
   number: 0
