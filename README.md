@@ -1,11 +1,11 @@
-About retropath2_wrapper
-========================
+About retropath2_wrapper-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/retropath2_wrapper-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/brsynth/retropath2_wrapper
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/retropath2_wrapper-feedstock/blob/main/LICENSE.txt)
 
 Summary: Python wrapper to run RetroPath2.0 KNIME workflow
 
@@ -146,4 +146,5 @@ Feedstock Maintainers
 * [@breakthewall](https://github.com/breakthewall/)
 * [@guillaume-gricourt](https://github.com/guillaume-gricourt/)
 * [@kenza12](https://github.com/kenza12/)
+* [@tduigou](https://github.com/tduigou/)
 
