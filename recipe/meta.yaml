@@ -10,20 +10,31 @@ source:
   sha256: 63a141423932d25a734c59e782d04dc9e30bd3d7b43cc0d4bf8eb43173b1cf40
 
 build:
-  number: 0
-  noarch: python
+  skip: True  # [win]
+  number: 1
   script: {{ PYTHON }} -m pip install -vv .
 
 requirements:
   host:
-    - python >=3.6
+    - python  # >=3.6
     - pip
   run:
-    - python >=3.6
+    - python  # >=3.6
     - brs_utils >=1.19
     - filetype
     - colored
     - freetype
+    - nss-cos7-x86_64
+    - atk-devel-cos7-x86_64
+    - cups-devel-cos7-x86_64
+    - xorg-libxcomposite
+    - xorg-libxdamage
+    - xorg-libxrandr
+    - libxkbcommon-devel-cos7-x86_64
+    - alsa-lib-devel-cos7-x86_64
+    - libxshmfence-devel-cos7-x86_64
+    - mesa-libgbm-cos7-x86_64
+    - libdrm-cos7-x86_64
 
 test:
   source_files:
