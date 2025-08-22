@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-retropath2_wrapper-green.svg)](https://anaconda.org/conda-forge/retropath2_wrapper) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/retropath2_wrapper.svg)](https://anaconda.org/conda-forge/retropath2_wrapper) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/retropath2_wrapper.svg)](https://anaconda.org/conda-forge/retropath2_wrapper) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/retropath2_wrapper.svg)](https://anaconda.org/conda-forge/retropath2_wrapper) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-retropath2__wrapper-green.svg)](https://anaconda.org/conda-forge/retropath2_wrapper) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/retropath2_wrapper.svg)](https://anaconda.org/conda-forge/retropath2_wrapper) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/retropath2_wrapper.svg)](https://anaconda.org/conda-forge/retropath2_wrapper) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/retropath2_wrapper.svg)](https://anaconda.org/conda-forge/retropath2_wrapper) |
 
 Installing retropath2_wrapper
 =============================
