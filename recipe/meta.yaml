@@ -1,5 +1,5 @@
 {% set name = "retropath2_wrapper" %}
-{% set version = "3.6.1" %}
+{% set version = "3.7.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/brsynth/retropath2-wrapper/archive/{{ version }}.tar.gz
-  sha256: 704445e2caefaf2149f9b30ec23cc9f8b778ad0ff06c21d54db5af02cf1ca0d7
+  sha256: 1d8198fb78f0cd280ce526543b3afe63795e032824513234ed92bec9432c0257
 
 build:
   number: 0
@@ -50,7 +50,7 @@ test:
     - python -m pytest tests
 
 about:
-  home: https://github.com/brsynth/{{ name|lower }}
+  home: https://github.com/brsynth/retropath2-wrapper
   summary: Python wrapper to run RetroPath2.0 KNIME workflow
   license: MIT
   license_file: LICENSE
@@ -60,5 +60,3 @@ extra:
     - tduigou
     - guillaume-gricourt
     - breakthewall
-    - kenza12
-    - guillaume-gricourt

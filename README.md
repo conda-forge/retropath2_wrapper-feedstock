@@ -3,7 +3,7 @@ About retropath2_wrapper-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/retropath2_wrapper-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/brsynth/retropath2-wrapper
+Home: https://github.com/brsynth/retropath2_wrapper
 
 Package license: MIT
 
