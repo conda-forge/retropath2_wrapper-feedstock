@@ -50,7 +50,7 @@ test:
     - python -m pytest tests
 
 about:
-  home: https://github.com/brsynth/{{ name|lower }}
+  home: https://github.com/brsynth/retropath2-wrapper
   summary: Python wrapper to run RetroPath2.0 KNIME workflow
   license: MIT
   license_file: LICENSE
@@ -60,5 +60,3 @@ extra:
     - tduigou
     - guillaume-gricourt
     - breakthewall
-    - kenza12
-    - guillaume-gricourt
