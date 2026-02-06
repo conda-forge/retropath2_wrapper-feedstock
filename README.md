@@ -147,6 +147,3 @@ Feedstock Maintainers
 * [@guillaume-gricourt](https://github.com/guillaume-gricourt/)
 * [@tduigou](https://github.com/tduigou/)
 
-
-<!-- dummy commit to enable rerendering -->
-
